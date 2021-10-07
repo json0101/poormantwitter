@@ -1,24 +1,11 @@
-# tweet-frontend
+# Scrummers test, Vue and Django
 
-## Project setup
+## Project setup frontend
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+  run: npm install
 ```
 
-### Compiles and minifies for production
+## Project setup backend
 ```
-npm run build
+  run: npm install
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
